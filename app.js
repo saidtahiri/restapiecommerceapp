@@ -11,7 +11,7 @@ dotenv.config({path:'./config/config.env'})
 
 //connect to database
 db().then();
-
+const st = "word";
 //express app
 const app = express();
 
