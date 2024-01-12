@@ -24,7 +24,7 @@ app.use(cors());
 //Routes
 const productRoute=require('./routes/products');
 app.use('/api/v1/products',productRoute);
-//app.use('/api/v1/products/:id',productRoute);
+
 
 
 
