@@ -45,4 +45,7 @@ exports.createProduct= async(req,res)=>{
     if(product){
         res.status(200).json({message:'You have inserted a new product'})
     }
+    else{
+        res.json({message:'Error while adding '})
+    }
 }
