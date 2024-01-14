@@ -54,16 +54,16 @@ MONGODB_URI=mongodb://localhost:27017/ecommerce
 
  5.Project Structure
 
- ecommerce-app/
-|-- controllers/
-|-- models/
-|-- routes/
-|-- config/
-|-- views/
-|-- public/
-|-- app.js
-|-- .env
-|-- [Other files and directories]
+ ecommerce-app/ <br>
+|-- controllers/ <br>
+|-- models/ <br>
+|-- routes/ <br>
+|-- config/ <br>
+|-- views/ <br>
+|-- public/ <br>
+|-- app.js <br>
+|-- .env <br>
+|-- [Other files and directories] <br>
 
 6.API Endpoints
 Document the available API endpoints and their functionalities.
