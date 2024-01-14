@@ -21,9 +21,14 @@ app.use(express.urlencoded({extended:false}));
 app.use(morgan('dev'));
 app.use(cors());
 
-//Routes
+//Load Routes
 const productRoute=require('./routes/products');
+const userRoute=require('./routes/users');
+
+
+//use Routes
 app.use('/api/v1/products',productRoute);
+app.use('/api/v1/users',userRoute);
 
 
 

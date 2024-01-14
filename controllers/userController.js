@@ -1,24 +1,18 @@
-const Product = require('../models/Product');
+const User = require('../models/User');
 
 //To get all Products
-exports.getProducts= async(req,res)=>{
+exports.getUsers= async(req,res)=>{
+
     try{
-        const prod =await Product.find({}).populate({
-            path:'category',
-            select:'title'
-        });
-        //console.log(prod)
-        res.json({products:prod});
-    }
-    catch(err){
+        const  users = await User.find({});
+        res.json(users);
+
+    } catch(err){
         console.log(err);
-        res.json({
-            error:"somthing went Wrong!"
-        });
     }
 }
 
-exports.getSingleProduct =async(req,res)=>{
+/* exports.getSingleProduct =async(req,res)=>{
     const productId= req.params.id;
     //console.log(productId);
     try{
@@ -30,11 +24,14 @@ exports.getSingleProduct =async(req,res)=>{
         else{
             res.json({message:'product not found'})
         }
+
     }
     catch(err){
         
         res.json({error:err})
     }
+    
+
 }
 
 exports.createProduct= async(req,res)=>{
@@ -48,4 +45,4 @@ exports.createProduct= async(req,res)=>{
     else{
         res.json({message:'Error while adding '})
     }
-}
+} */
