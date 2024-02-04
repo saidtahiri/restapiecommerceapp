@@ -1,0 +1,95 @@
+{
+   "count":10,
+   "products":[
+      {
+         "Category":"Electronics",
+         "Name":"PlayStation 4",
+         "price":240.99,
+         "description":"With PS4, gaming becomes a lot more power packed. Ultra-fast processors, high-performance system, real-time game sharing, remote play and lots more makes it the ultimate companion device.",
+         "quantity":0,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr-iFW5W8n3_jxNKiclAP_k71Fi9PGcojsMUC-vb8zbwJthbBd",
+         "id":1
+      },
+      {
+         "Category":"Shoes",
+         "Name":"PEGASUS 33 Running Shoes For Men",
+         "price":59.99,
+         "description":"The Nike Zoom Pegasus Turbo 2 is updated with a feather-light upper, while innovative foam brings revolutionary responsiveness to your long-distance training",
+         "quantity":51,
+         "image":"https://i.pinimg.com/originals/43/40/8e/43408ee5a8d234752ecf80bbc3832e65.jpg",
+         "id":2
+      },
+      {
+         "Category":"Shoes",
+         "Name":"MEN'S ADIDAS RUNNING KALUS SHOES",
+         "price":39.99,
+         "description":"A well cushioned shoe with a fresher look that will appeal to young runners. Features Mesh upper for maximum ventilation, lightstrike IMEVA midsole with visible adiprene providing protection from harmful impact forces and durable Rubber outsole for long-lasting wear",
+         "quantity":69,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrEqFHfSbs6rUzcYnN_PcnS_D2JLXusKMVFk4Y8N_tn3hJgNIf",
+         "id":3
+      },
+      {
+         "Category":"Electronics",
+         "Name":"Xbox One X Star Wars Jedi",
+         "price":250,
+         "description":"Own the Xbox One X Star Wars Jedi: Fallen Order™ Bundle and step into the role of a Jedi Padawan who narrowly escaped the purge of Order 66. This bundle includes a full-game download of Star Wars Jedi: Fallen Order™ Deluxe Edition, a 1-month trial of Xbox Game Pass for console and Xbox Live Gold, and 1-month of EA Access.***",
+         "quantity":78,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ8ufSADR9EyusxEfgMLErqISEcKVzQyjoD81zWcdpBvuEGBnYP",
+         "id":4
+      },
+      {
+         "Category":"Electronics",
+         "Name":"PlayStation 4",
+         "price":240.99,
+         "description":"With PS4, gaming becomes a lot more power packed. Ultra-fast processors, high-performance system, real-time game sharing, remote play and lots more makes it the ultimate companion device.",
+         "quantity":83,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr-iFW5W8n3_jxNKiclAP_k71Fi9PGcojsMUC-vb8zbwJthbBd",
+         "id":5
+      },
+      {
+         "Category":"Shoes",
+         "Name":"PEGASUS 33 Running Shoes For Men",
+         "price":59.99,
+         "description":"The Nike Zoom Pegasus Turbo 2 is updated with a feather-light upper, while innovative foam brings revolutionary responsiveness to your long-distance training",
+         "quantity":1,
+         "image":"https://i.pinimg.com/originals/43/40/8e/43408ee5a8d234752ecf80bbc3832e65.jpg",
+         "id":6
+      },
+      {
+         "Category":"Shoes",
+         "Name":"MEN'S ADIDAS RUNNING KALUS SHOES",
+         "price":39.99,
+         "description":"A well cushioned shoe with a fresher look that will appeal to young runners. Features Mesh upper for maximum ventilation, lightstrike IMEVA midsole with visible adiprene providing protection from harmful impact forces and durable Rubber outsole for long-lasting wear",
+         "quantity":95,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrEqFHfSbs6rUzcYnN_PcnS_D2JLXusKMVFk4Y8N_tn3hJgNIf",
+         "id":7
+      },
+      {
+         "Category":"Electronics",
+         "Name":"Xbox One X Star Wars Jedi",
+         "price":250,
+         "description":"Own the Xbox One X Star Wars Jedi: Fallen Order™ Bundle and step into the role of a Jedi Padawan who narrowly escaped the purge of Order 66. This bundle includes a full-game download of Star Wars Jedi: Fallen Order™ Deluxe Edition, a 1-month trial of Xbox Game Pass for console and Xbox Live Gold, and 1-month of EA Access.***",
+         "quantity":100,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ8ufSADR9EyusxEfgMLErqISEcKVzQyjoD81zWcdpBvuEGBnYP",
+         "id":8
+      },
+      {
+         "Category":"Electronics",
+         "Name":"PlayStation 4",
+         "price":240.99,
+         "description":"With PS4, gaming becomes a lot more power packed. Ultra-fast processors, high-performance system, real-time game sharing, remote play and lots more makes it the ultimate companion device.",
+         "quantity":100,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSr-iFW5W8n3_jxNKiclAP_k71Fi9PGcojsMUC-vb8zbwJthbBd",
+         "id":9
+      },
+      {
+         "Category":"Shoes",
+         "Name":"PEGASUS 33 Running Shoes For Men",
+         "price":59.99,
+         "description":"The Nike Zoom Pegasus Turbo 2 is updated with a feather-light upper, while innovative foam brings revolutionary responsiveness to your long-distance training",
+         "quantity":100,
+         "image":"https://i.pinimg.com/originals/43/40/8e/43408ee5a8d234752ecf80bbc3832e65.jpg",
+         "id":10
+      }
+   ]
+}
